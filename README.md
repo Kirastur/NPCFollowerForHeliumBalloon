@@ -18,8 +18,8 @@ To watch the demo, do the following:
        https://www.spigotmc.org/resources/citizens.13811/
        http://ci.citizensnpcs.co/job/Citizens2
 
-2. Create a new NPC "demo" (If you can't see the NPC, move a bit away from your position and turn around)
-       /npc create demo
+2. Create a new NPC "demo" (If you can't see the NPC, move a bit away from your position and turn around):
+       "/npc create demo"
 
 3. Set three waypoints (so they build a triangle)
      * Enter "/npc path" to enter the waypoint editor
@@ -27,8 +27,8 @@ To watch the demo, do the following:
      * Enter "/npc path" to exit the waypoint editor
    ==> You see the npc hiking around
 
-4. Optional: Reduce the speed of the NPC
-       /npc speed 0.8
+4. Optional: Reduce the speed of the NPC:
+       "/npc speed 0.8"
 
 5. Attach the pet to the NPC
       /npcfolllowerset demo
