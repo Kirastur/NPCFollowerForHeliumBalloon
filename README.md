@@ -18,10 +18,8 @@ To watch the demo, do the following:
        https://www.spigotmc.org/resources/citizens.13811/
        http://ci.citizensnpcs.co/job/Citizens2
 
-2. Create a new NPC "demo"
+2. Create a new NPC "demo" (If you can't see the NPC, move a bit away from your position and turn around)
        /npc create demo
-
-  If you can't see the NPC, move a bit away from your position and turn around
 
 3. Set three waypoints (so they build a triangle)
      * Enter "/npc path" to enter the waypoint editor
