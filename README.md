@@ -10,6 +10,8 @@ This is a very rudimentary plugin. Is does not care about:
 * Persistence
 * ChunkHandling
 
+Install the HeliumBalloon plugin from https://www.spigotmc.org/resources/heliumballoon.95902
+
 To watch the demo, do the following:
 
 1. Install the citizens plugin
