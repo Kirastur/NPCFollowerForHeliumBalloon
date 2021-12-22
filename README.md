@@ -14,9 +14,7 @@ Install the HeliumBalloon plugin from https://www.spigotmc.org/resources/heliumb
 
 To watch the demo, do the following:
 
-1. Install the citizens plugin
-       https://www.spigotmc.org/resources/citizens.13811/
-       http://ci.citizensnpcs.co/job/Citizens2
+1. Install the citizens plugin (https://www.spigotmc.org/resources/citizens.13811/ or http://ci.citizensnpcs.co/job/Citizens2 )
 
 2. Create a new NPC "demo" (If you can't see the NPC, move a bit away from your position and turn around):
        "/npc create demo"
