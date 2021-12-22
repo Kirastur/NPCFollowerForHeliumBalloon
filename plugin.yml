@@ -1,0 +1,28 @@
+name: NPCFollowerForHeliumBalloon
+version: 1.9
+description: A demo howto implement custom movements
+author: Kirastur
+website: https://github.com/Kirastur/NPCFollowerForHeliumBalloon
+
+
+api-version: 1.17
+load: POSTWORLD
+main: de.polarwolf.npcfollower.Main
+depend: [HeliumBalloon]
+
+commands:
+    npcfollowerset:
+        description: Attach the pet to the given NPC
+        permission: npcfollower.admin
+        permission-message: You don't have the permission to admin npcfollower
+
+    npcfollowerremove:
+        description: Remove the QuickWall
+        permission: npcfollower.admin
+        permission-message: You don't have the permission to admin npcfollower
+
+permissions:
+    npcfollower.admin:
+        description: Should user be able to admin npcfollower?
+        default: op
+      
