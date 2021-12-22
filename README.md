@@ -30,9 +30,9 @@ To watch the demo, do the following:
 4. Optional: Reduce the speed of the NPC:
        "/npc speed 0.8"
 
-5. Attach the pet to the NPC
-      /npcfolllowerset demo
+5. Attach the pet to the NPC:
+      "/npcfolllowerset demo"
    ==> Now the lantern is following the player
 
-6. Remove the lantern pet
-       /npcfollowerremove
+6. Remove the lantern pet:
+       "/npcfollowerremove"
